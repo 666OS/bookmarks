@@ -5,7 +5,7 @@
       "url": "https://www.coursera.org",
       "category": "学习资源",
       "recommended": true,
-      "pinned": true,
+      "pinned": false,
       "order": 0
     },
     "1002": {
@@ -20,8 +20,8 @@
       "url": "https://www.icourse163.org",
       "category": "学习资源",
       "recommended": true,
-      "pinned": true,
-      "order": 2
+      "pinned": false,
+      "order": 11
     },
     "1004": {
       "name": "Khan Academy",
@@ -98,8 +98,8 @@
       "url": "https://www.notion.so",
       "category": "工作效率",
       "recommended": true,
-      "pinned": true,
-      "order": 0
+      "pinned": false,
+      "order": 2
     },
     "1015": {
       "name": "Trello",
@@ -134,8 +134,8 @@
       "url": "https://workspace.google.com",
       "category": "工作效率",
       "recommended": true,
-      "pinned": true,
-      "order": 5
+      "pinned": false,
+      "order": 14
     },
     "1020": {
       "name": "Evernote",
@@ -192,71 +192,64 @@
       "url": "https://stackoverflow.com",
       "category": "技术开发",
       "recommended": true,
-      "order": 1
+      "pinned": false,
+      "order": 2
     },
     "1028": {
       "name": "GitLab",
       "url": "https://gitlab.com",
       "category": "技术开发",
       "recommended": false,
-      "order": 2
+      "order": 4
     },
     "1029": {
       "name": "Bitbucket",
       "url": "https://bitbucket.org",
       "category": "技术开发",
       "recommended": false,
-      "order": 3
+      "order": 5
     },
     "1030": {
       "name": "MDN Web Docs",
       "url": "https://developer.mozilla.org",
       "category": "技术开发",
       "recommended": true,
-      "order": 4
+      "order": 6
     },
     "1031": {
       "name": "Dev.to",
       "url": "https://dev.to",
       "category": "技术开发",
       "recommended": false,
-      "order": 5
+      "order": 7
     },
     "1032": {
       "name": "CodePen",
       "url": "https://codepen.io",
       "category": "技术开发",
       "recommended": false,
-      "order": 6
-    },
-    "1033": {
-      "name": "掘金",
-      "url": "https://juejin.cn",
-      "category": "技术开发",
-      "recommended": true,
-      "pinned": true,
-      "order": 7
+      "order": 8
     },
     "1034": {
       "name": "思否",
       "url": "https://segmentfault.com",
       "category": "技术开发",
       "recommended": false,
-      "order": 8
+      "order": 9
     },
     "1035": {
       "name": "CSDN",
       "url": "https://www.csdn.net",
       "category": "技术开发",
       "recommended": false,
-      "order": 9
+      "order": 10
     },
     "1036": {
       "name": "V2EX",
       "url": "https://www.v2ex.com",
       "category": "技术开发",
       "recommended": false,
-      "order": 10
+      "order": 1
     },
     "1037": {
       "name": "InfoQ",
@@ -270,7 +263,7 @@
       "url": "https://news.ycombinator.com",
       "category": "技术开发",
       "recommended": false,
-      "order": 12
+      "order": 3
     },
     "1039": {
       "name": "BBC News",
@@ -278,7 +271,7 @@
       "category": "新闻媒体",
       "recommended": true,
       "pinned": true,
-      "order": 0
+      "order": 5
     },
     "1040": {
       "name": "CNN",
@@ -378,7 +371,7 @@
       "category": "娱乐影音",
       "recommended": true,
       "pinned": true,
-      "order": 2
+      "order": 12
     },
     "1054": {
       "name": "爱奇艺",
@@ -406,6 +399,7 @@
       "url": "https://www.spotify.com",
       "category": "娱乐影音",
       "recommended": true,
+      "pinned": true,
       "order": 6
     },
     "1058": {
@@ -463,7 +457,7 @@
       "category": "社交网络",
       "recommended": true,
       "pinned": true,
-      "order": 0
+      "order": 1
     },
     "1066": {
       "name": "Facebook",
@@ -498,8 +492,8 @@
       "url": "https://www.zhihu.com",
       "category": "社交网络",
       "recommended": true,
-      "pinned": true,
-      "order": 5
+      "pinned": false,
+      "order": 15
     },
     "1071": {
       "name": "小红书",
@@ -549,7 +543,7 @@
       "category": "工具服务",
       "recommended": true,
       "pinned": true,
-      "order": 0
+      "order": 3
     },
     "1078": {
       "name": "百度",
@@ -641,7 +635,7 @@
       "category": "设计创意",
       "recommended": true,
       "pinned": true,
-      "order": 0
+      "order": 2
     },
     "1091": {
       "name": "Behance",
@@ -655,21 +649,21 @@
       "url": "https://dribbble.com",
       "category": "设计创意",
       "recommended": true,
-      "order": 2
+      "order": 3
     },
     "1093": {
       "name": "ArtStation",
       "url": "https://www.artstation.com",
       "category": "设计创意",
       "recommended": false,
-      "order": 3
+      "order": 4
     },
     "1094": {
       "name": "站酷",
       "url": "https://www.zcool.com.cn",
       "category": "设计创意",
       "recommended": false,
-      "order": 4
+      "order": 0
     },
     "1095": {
       "name": "Canva",
@@ -719,7 +713,7 @@
       "category": "电子商务",
       "recommended": true,
       "pinned": true,
-      "order": 0
+      "order": 7
     },
     "1102": {
       "name": "京东",
@@ -762,7 +756,7 @@
       "category": "电子商务",
       "recommended": true,
       "pinned": true,
-      "order": 6
+      "order": 17
     },
     "1108": {
       "name": "eBay",
@@ -804,8 +798,8 @@
       "url": "https://www.alipay.com",
       "category": "金融理财",
       "recommended": true,
-      "pinned": true,
-      "order": 0
+      "pinned": false,
+      "order": 8
     },
     "1114": {
       "name": "微信支付",
@@ -882,8 +876,8 @@
       "url": "https://www.ctrip.com",
       "category": "旅游出行",
       "recommended": true,
-      "pinned": true,
-      "order": 0
+      "pinned": false,
+      "order": 9
     },
     "1125": {
       "name": "去哪儿",
@@ -918,8 +912,8 @@
       "url": "https://www.airbnb.com",
       "category": "旅游出行",
       "recommended": true,
-      "pinned": true,
-      "order": 5
+      "pinned": false,
+      "order": 16
     },
     "1130": {
       "name": "TripAdvisor",
@@ -969,7 +963,7 @@
       "category": "人工智能",
       "recommended": true,
       "pinned": true,
-      "order": 0
+      "order": 10
     },
     "1137": {
       "name": "Claude",
@@ -998,7 +992,7 @@
       "category": "人工智能",
       "recommended": true,
       "pinned": true,
-      "order": 4
+      "order": 13
     },
     "1141": {
       "name": "Stable Diffusion",
@@ -1060,51 +1054,51 @@
   "categories": {
     "cat1": {
       "name": "学习资源",
-      "order": 0
+      "order": 3
     },
     "cat2": {
       "name": "工作效率",
-      "order": 1
+      "order": 4
     },
     "cat3": {
       "name": "技术开发",
-      "order": 2
+      "order": 5
     },
     "cat4": {
       "name": "新闻媒体",
-      "order": 3
+      "order": 6
     },
     "cat5": {
       "name": "娱乐影音",
-      "order": 4
+      "order": 7
     },
     "cat6": {
       "name": "社交网络",
-      "order": 5
+      "order": 1
     },
     "cat7": {
       "name": "工具服务",
-      "order": 6
+      "order": 8
     },
     "cat8": {
       "name": "设计创意",
-      "order": 7
+      "order": 9
     },
     "cat9": {
       "name": "电子商务",
-      "order": 8
+      "order": 10
     },
     "cat10": {
       "name": "金融理财",
-      "order": 9
+      "order": 11
     },
     "cat11": {
       "name": "旅游出行",
-      "order": 10
+      "order": 12
     },
     "cat12": {
       "name": "人工智能",
-      "order": 11
+      "order": 2
     }
   }
 }
